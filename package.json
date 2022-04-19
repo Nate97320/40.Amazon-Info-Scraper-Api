@@ -1,0 +1,23 @@
+{
+  "name": "61.amazon-scraper-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "json-parse": "^1.0.3",
+    "json-parse-async": "^1.0.3",
+    "nodemon": "^2.0.15",
+    "parsed": "^0.0.0",
+    "raw-body": "^2.5.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
